@@ -83,3 +83,5 @@ git branch -M main
 git push -u origin main
 echo hello PostgreSql
 echo hello PostgreSQL
+git commit -m "cambios"
+git add .
