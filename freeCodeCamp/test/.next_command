@@ -25,3 +25,4 @@ ls --color=auto
 more packaje.json
 more package.json
 clear
+ls --color=auto
