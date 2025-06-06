@@ -45,3 +45,4 @@ cd node_modules
 cd ..
 cd ../..
 ls --color=auto
+clear
