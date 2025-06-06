@@ -2,3 +2,8 @@ git status
 git pull
 git checkout -b boilerplate_bash
 git add .
+git commit -m "inicio"
+git push --set-upstream origin boilerplate_bash
+git pull
+git status
+git add .
