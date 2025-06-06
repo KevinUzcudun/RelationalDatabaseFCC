@@ -7,3 +7,8 @@ git push --set-upstream origin boilerplate_bash
 git pull
 git status
 git add .
+git commit -m "inicio"
+git status
+git add .
+git status
+echo hello terminal
