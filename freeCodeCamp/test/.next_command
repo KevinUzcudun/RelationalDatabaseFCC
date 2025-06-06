@@ -1,0 +1,4 @@
+git status
+git pull
+git checkout -b boilerplate_bash
+git add .
