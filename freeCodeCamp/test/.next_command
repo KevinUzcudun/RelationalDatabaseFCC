@@ -13,3 +13,4 @@ git add .
 git status
 echo hello terminal
 pwd
+ls --color=auto
